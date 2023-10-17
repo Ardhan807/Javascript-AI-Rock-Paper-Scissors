@@ -5,5 +5,8 @@ batu-gunting-kertas merupakan permainan dua orang yang menggunakan satu tangan d
 
 ## how does it work?
 
-cara ker
+click antara batu,gunting, dan tunggu komputer untuk memilih antara batu,gunting dan kertas. jika kita memilih gunting komputer akan memilih random antara batu,gunting dan kertas hal   tersebut di atur menggunakan javascript jika kita ingin mengubah waktu tunggu untuk komputer memilih, agar menjadi lebih cepat atau lambat bisa diatur menggunakan javascript. komputer akan mengingat pola dan akan membuat pilihan secara acak berdasarkan pilihan kita.
 
+## how to play this game?
+
+game tersebut dapat di mainkan di dalam github melalui link https://ozboware.github.io/Javascript-AI-Rock-Paper-Scissors/
